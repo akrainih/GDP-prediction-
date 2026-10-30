@@ -26,7 +26,7 @@
 
 ## Данные
 
-- Файл: [`data/gdp_france.xlsx`](data/gdp_france.xlsx)
+- Файл: [`data/gdp_france.xlsx`](https://github.com/akrainih/GDP-prediction-/blob/49ea86ea99e29d4d8aabdf6f35090a9a632123ba/gdp_france.xlsx)
 - Показатель: номинальный ВВП Франции в текущих долларах США
 - Период: 1995–2025, 31 годовое наблюдение
 - Источник: _укажите источник данных_
