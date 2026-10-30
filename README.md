@@ -72,21 +72,9 @@ gdp-france-forecast/
 ├── data/
 │   └── gdp_france.xlsx       # исходные данные
 ├── images/                   # графики для README
-├── GDP_predict.ipynb         # ноутбук с анализом и моделями
+├── GDP_predict_done.ipynb         # ноутбук с анализом и моделями
 ├── requirements.txt          # зависимости
 └── README.md
-```
-
-## Как запустить
-
-```bash
-git clone https://github.com/<ваш-логин>/gdp-france-forecast.git
-cd gdp-france-forecast
-pip install -r requirements.txt
-jupyter notebook GDP_predict.ipynb
-```
-
-Затем выполните все ячейки: **Kernel → Restart & Run All**.
 
 **Стек:** Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, seaborn, Jupyter.
 
